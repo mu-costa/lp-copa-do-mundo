@@ -1,5 +1,5 @@
 // --- JS para SPA/CMS - Copa do Mundo de Clubes ---
-// Atualizado em 16:43h 30/06/25 - Incluído chaveamento das oitavas de final
+// Atualizado às 17:00h 30/06/25 - Incluído chaveamento das oitavas de final
 
 // Variáveis para controle de navegação entre fases
 let currentPhase = 'groups'; // 'groups' ou 'knockout'
